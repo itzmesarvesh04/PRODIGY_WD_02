@@ -5,3 +5,6 @@ This repository contains a simple and user-friendly Stopwatch Web Application bu
 
 SAMPLE:-
 ![image](https://github.com/itzmesarvesh04/PRODIGY_WD_02/assets/134228231/e074d1c0-5246-4c2a-831a-a4a9da310dc3)
+
+![image](https://github.com/itzmesarvesh04/PRODIGY_WD_02/assets/134228231/cdb0428f-3b50-4766-884c-befee91c9034)
+
